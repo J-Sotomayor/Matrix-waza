@@ -1,5 +1,7 @@
 {
-  "name": "matrix-app",
+  "name": "matrix",
+  "author": "John Sotomayor",
+  "description": "matrix de 3x3 4x4 5x5 6x6 primeflex and primeng",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
